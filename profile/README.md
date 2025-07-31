@@ -1,7 +1,7 @@
  # 🏛️ 人生存档计划 | LifeArchiveProject
 
   <div align="center">
-    <img src="logo.png" alt="LifeArchiveProject" width="200">
+    <img src="/logo.png" alt="LifeArchiveProject" width="200">
     <p><em>记录生活，存档时光，重现每一个珍贵时刻</em></p>
   </div>
 
